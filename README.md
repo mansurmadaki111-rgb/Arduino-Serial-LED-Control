@@ -41,6 +41,8 @@ Open the Serial Monitor (or connect via Bluetooth terminal app on your phone).
 Send the following commands:
 1 → Turn ON LED1
 2 → Turn OFF LED1
+
+
 3 → Turn ON LED2
 4 → Turn OFF LED2
 … and so on up to E for LED7.
@@ -56,26 +58,6 @@ Learning Outcomes:
 
 
 Author:
-Created by: Mansur Isah Madaki
-Organization: SmartSense
-License: MIT License
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Created by: Mansur Isah Madaki.
+Organization: SmartSense.
+License: MIT License.
