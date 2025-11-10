@@ -40,20 +40,24 @@ Upload the Arduino code to your board.
 Open the Serial Monitor (or connect via Bluetooth terminal app on your phone).
 Send the following commands:
 1 → Turn ON LED1
+
 2 → Turn OFF LED1
 
-
 3 → Turn ON LED2
+
 4 → Turn OFF LED2
 … and so on up to E for LED7.
 
-Optional: Control via Bluetooth App →
+Optional: Control via Bluetooth App:
 You can use any serial Bluetooth app (e.g., Bluetooth Terminal or MIT App Inventor custom app) to send the same commands wirelessly, but in my case i am using MIT app inventor
 
 Learning Outcomes:
 .Understand Serial communication in Arduino
+
 .Learn how to use digital I/O pins
+
 .Control multiple outputs from a single microcontroller
+
 .Optionally extend to IoT or smartphone automation
 
 
